@@ -1,0 +1,11 @@
+
+# Archivos generados por Visual Studio y .NET
+bin/
+obj/
+
+# Configuración personal del usuario
+*.csproj.user
+*.suo
+
+# Carpetas y archivos de Visual Studio
+.vs/
